@@ -7,5 +7,3 @@ Growing up I always thought my career would involve technology in some way. Well
 ### 💼 Projects: <br>
 - [3-tier architecture deployed on AWS.](https://github.com/GunnarBlu/3-TierArchitectureAWS)
 - [Automated cloud hosted WordPress site.](https://github.com/GunnarBlu/AnsibleCloudAutomation)
-
--->
