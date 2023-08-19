@@ -8,8 +8,6 @@ Growing up I always thought my career would involve technology in some way. Well
 - [3-tier architecture deployed on AWS.](https://github.com/GunnarBlu/3-TierArchitectureAWS)
 - [Automated cloud hosted WordPress site.](https://github.com/GunnarBlu/AnsibleCloudAutomation)
 
-💬 Reach me by [LinkedIn](https://www.linkedin.com/in/gunnar-r/)
-<!--
 **GunnarBlu/GunnarBlu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
